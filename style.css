@@ -1,0 +1,43 @@
+html, button {
+	font-family: helvetica;
+  font-size: 18px;
+}
+
+button {
+  width: 35px;
+  height: 35px;
+  margin: 5px;
+  border: none;
+  }
+  
+.calcLayout {
+	background-color: #555;
+	width: 200px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.numberButton {
+	background-color: #34c0eb;
+}
+
+.cancelButton {
+	background-color: #eb3434;
+}
+
+.evalButton {
+	width: 92.5%;
+	background-color: #2ecc71;
+}
+
+.display {
+	margin: 5px;
+	margin-bottom: 15px;
+	background-color: white;
+	height: 20px;
+	text-align: right;
+	width: 90%;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-right: 5px;
+}
