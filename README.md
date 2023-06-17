@@ -1,6 +1,6 @@
 # cleanCalc
 A very basic JS calculator, built with the goal of having a very clean UI and very clean code.
-If you want a demo of it, you can just [download it](https://github.com/Rudxain/cleanCalc/archive/refs/heads/master.zip) and open the HTML file
+If you want a demo of it, you can just download it and open the HTML file
 
 You can embed it in your website/html doc very easily with just one line:
 ```html
